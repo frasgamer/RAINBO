@@ -8,7 +8,7 @@ client.on('ready', () => {
 
 client.on("ready", () => { // كود رينبو
   function lol() {
-    client.guilds.get('516265738697441286').roles.find("name", "admin").setColor("RANDOM");
+    client.guilds.get('518797964857311263').roles.find("name", "admin").setColor("RANDOM");
   };
   setInterval(lol, 1000);
 });
